@@ -1,6 +1,5 @@
-# BTPlusPlusTE_beta2
-BTPlusPlusTE beta version 2
-
+# BTPlusPlusTE beta version 2
+*Customized BT++ specifically designed for cups/pugs/tournament mode*
 ## Version 2 changes:
 - added mystarts for both tournament and practice mode
 - added AntiBoost for practice mode only
