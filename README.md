@@ -9,6 +9,16 @@
 - team switching in tournament mode will not be possible if `teamsize > Maxplayers/2`
 - Server records will now be saved in BTPlusPlusTE.ini
 
+
+### Mystart say commands:
+
+- Mystart: `mystart` `!mystart`
+- Clearstart: `clearstart` `!clearstart`
+- Nextstart: `nextstart` `nextspawn` `!nextstart` `!nextspawn`
+- Prevstart: `prevstart` `prevspawn` `!prevstart` `!prevspawn`
+
+
+### Say !BT to open the menu
 ![SpectatorMenu](https://cdn.discordapp.com/attachments/710812298847060002/834525687141892126/unknown.png)
 
 
