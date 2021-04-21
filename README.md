@@ -4,7 +4,7 @@
 - added mystarts for both tournament and practice mode
 - added AntiBoost for practice mode only
 - added option to enable/disable the *New Server Record* message in tournament mode
-- added feature to make your own skin translucent with console command `mutate transparentself`
+- added feature to make your own skin transparent with console command `mutate transparentself`
 - added a new spectator menu including several self explanatory options for spectators only
 - team switching in tournament mode will not be possible if `teamsize > Maxplayers/2`
 - Server records will now be saved in BTPlusPlusTE.ini
